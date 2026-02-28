@@ -1,7 +1,7 @@
 # Hi, I'm cxyfreedom
 
 A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome" />
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
