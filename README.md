@@ -35,9 +35,10 @@ I build websites and business systems using Django & modern web technologies.
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
 </p>  
 
+---
 
 **I Mostly Code in Python** 
-
+---
 ```text
 Python                   8 repos             █████████████░░░░░░░░░░░░   53.33% 
 HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
@@ -46,7 +47,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
-
+---
 
 
  Last Updated on 03/03/2026
